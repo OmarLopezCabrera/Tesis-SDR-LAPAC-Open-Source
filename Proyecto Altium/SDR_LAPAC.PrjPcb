@@ -8,9 +8,9 @@ ReleaseVaultName=
 ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
-ArchiveProject=0
+ArchiveProject=1
 TimestampOutput=0
-SeparateFolders=0
+SeparateFolders=1
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for SDR_LAPAC
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -56,57 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=C:\Users\Public\Documents\Altium\AD16\Library\Panasonic\Panasonic\Panasonic Resistor.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
-DocumentPath=C:\Users\Public\Documents\Altium\AD16\Library\TE Connectivity\Header2x1(826629-2)\Header2x1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IXAOIMJF
-
-[Document4]
-DocumentPath=C:\Users\Public\Documents\Altium\AD16\Library\KEMET Electronics\T520V_CAP_330.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YFEJVLBL
-
-[Document5]
 DocumentPath=SDR_LAPAC.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,24 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=C:\Users\Public\Documents\Altium\AD16\Library\Sullins Connector Solutions\PPTC052LJBN-RC\PPTC062LJBN-RC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EVPUIRWL
-
-[Document7]
+[Document3]
 DocumentPath=AD9364_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSQALXIG
 
-[Document8]
+[Document4]
 DocumentPath=AD9364_RF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGPYXWUG
 
-[Document9]
+[Document5]
 DocumentPath=FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHNNBYLI
 
-[Document10]
+[Document6]
 DocumentPath=GPIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPEDWLJR
 
-[Document11]
+[Document7]
 DocumentPath=Intro.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXCIUSTE
 
-[Document12]
+[Document8]
 DocumentPath=Memory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMCWTVHY
 
-[Document13]
+[Document9]
 DocumentPath=PCB_SDR.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTPXGRRR
 
-[Document14]
+[Document10]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNLRRJCS
 
-[Document15]
+[Document11]
 DocumentPath=USB3.0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,8 +225,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HEBYKBTU
 
-[Document16]
+[Document12]
 DocumentPath=SDR_LAPAC.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=SDR_LAPAC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -327,68 +276,76 @@ DocumentPath=..\Altium\Project Outputs for SDR\Design Rule Check - PCB_SDR.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\Altium\Project Outputs for SDR\FPGA.BOM
+DocumentPath=Project Outputs for SDR_LAPAC\Design Rule Check - PCB_SDR.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\Altium\Project Outputs for SDR\FPGA.CSV
+DocumentPath=..\Altium\Project Outputs for SDR\FPGA.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR.EXTREP
+DocumentPath=..\Altium\Project Outputs for SDR\FPGA.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR.REP
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR.RUL
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR.REP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Plane_1.gbr
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Plane_2.gbr
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Plane_3.gbr
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Plane_4.gbr
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Plane_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Signal_1.gbr
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Plane_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Signal_2.gbr
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Signal_Bot.gbr
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Signal_Top.gbr
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\Altium\Project Outputs for SDR\SDR.xls
+DocumentPath=..\Altium\Project Outputs for SDR\PCB_SDR_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=..\Altium\SDR.xls
+DocumentPath=..\Altium\Project Outputs for SDR\SDR.xls
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=..\Altium\SDR.xls
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=..\Altium\Project Outputs for SDR\SDR_bom.pdf
 DItemRevisionGUID=
+
+[DeviceSheetFolder1]
+Path=D:\Tesis\TesisShared\Proyecto Altium\
+IncludeSubFolders=0
 
 [Configuration1]
 Name=Default Configuration
@@ -437,7 +394,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for SDR_LAPAC
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
