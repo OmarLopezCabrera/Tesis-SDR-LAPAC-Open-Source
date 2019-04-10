@@ -19,7 +19,7 @@ Esta SDR cubre un rango de frecuencia de 70 MHz hasta 6 GHz, tiene una conexión
 ## Construido con 🛠️
 
 * [Altium Designer 16.0](https://www.altium.com/) - CAD para diseñar PCB
-* [Advanced design System Design](https://www.keysight.com/en/pc-1297113/advanced-design-system-ads?cc=US&lc=eng) - CAD para simulacion etapa RF
+* [Advanced Design System ](https://www.keysight.com/en/pc-1297113/advanced-design-system-ads?cc=US&lc=eng) - CAD para simulacion etapa RF
 * [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - CAD para simulacion etapa Power
 
 
