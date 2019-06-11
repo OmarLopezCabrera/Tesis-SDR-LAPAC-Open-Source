@@ -33,4 +33,4 @@ Esta SDR cubre un rango de frecuencia de 70 MHz hasta 6 GHz, tiene una conexión
 
 ## Autores ✒️
 
-Omar Lopez Cabrera
+Omar Lopez Cabrera    ovmlcabrera@gmail.com
